@@ -1,2 +1,3 @@
 "# web_ml" 
-machine learning libary in plain JavaScript
+
+machine learning library in plain JavaScript
